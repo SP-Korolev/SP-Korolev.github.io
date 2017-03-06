@@ -1,0 +1,60 @@
+/* font-family: "RobotoCondensedRegular"; */
+@font-face {
+    font-family: "RobotoCondensedRegular";
+    src: url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot");
+    src: url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff") format("woff"),
+    url("../fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoCondensedLight"; */
+@font-face {
+    font-family: "RobotoCondensedLight";
+    src: url("../fonts/RobotoCondensedLight/RobotoCondensedLight.eot");
+    src: url("../fonts/RobotoCondensedLight/RobotoCondensedLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoCondensedLight/RobotoCondensedLight.woff") format("woff"),
+    url("../fonts/RobotoCondensedLight/RobotoCondensedLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoCondensedBold"; */
+@font-face {
+    font-family: "RobotoCondensedBold";
+    src: url("../fonts/RobotoCondensedBold/RobotoCondensedBold.eot");
+    src: url("../fonts/RobotoCondensedBold/RobotoCondensedBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoCondensedBold/RobotoCondensedBold.woff") format("woff"),
+    url("../fonts/RobotoCondensedBold/RobotoCondensedBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "BicubikRegular"; */
+@font-face {
+    font-family: "BicubikRegular";
+    src: url("../fonts/BicubikRegular/BicubikRegular.eot");
+    src: url("../fonts/BicubikRegular/BicubikRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/BicubikRegular/BicubikRegular.woff") format("woff"),
+    url("../fonts/BicubikRegular/BicubikRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "AaarghRegular"; */
+@font-face {
+    font-family: "AaarghRegular";
+    src: url("../fonts/AaarghRegular/AaarghRegular.eot");
+    src: url("../fonts/AaarghRegular/AaarghRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AaarghRegular/AaarghRegular.woff") format("woff"),
+    url("../fonts/AaarghRegular/AaarghRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "AaarghBold"; */
+@font-face {
+    font-family: "AaarghBold";
+    src: url("../fonts/AaarghBold/AaarghBold.eot");
+    src: url("../fonts/AaarghBold/AaarghBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/AaarghBold/AaarghBold.woff") format("woff"),
+    url("../fonts/AaarghBold/AaarghBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
